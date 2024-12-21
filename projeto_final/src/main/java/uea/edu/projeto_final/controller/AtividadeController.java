@@ -25,7 +25,7 @@ import uea.edu.projeto_final.service.AtividadeService;
 
 
 @RestController
-@RequestMapping("/atividadees")
+@RequestMapping("/atividades")
 public class AtividadeController {
     @Autowired
     private AtividadeService atividadeService;

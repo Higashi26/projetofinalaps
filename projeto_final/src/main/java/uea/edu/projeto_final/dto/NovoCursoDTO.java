@@ -6,5 +6,5 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 public class NovoCursoDTO {
-    private String titulo;
+    private String nome_aluno;
 }

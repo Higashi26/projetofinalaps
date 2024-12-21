@@ -25,7 +25,7 @@ import uea.edu.projeto_final.service.FotoService;
 
 
 @RestController
-@RequestMapping("/fotoes")
+@RequestMapping("/fotos")
 public class FotoController {
     @Autowired
     private FotoService fotoService;
